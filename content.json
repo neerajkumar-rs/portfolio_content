@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "profile": {
+    "name": "Neeraj Kumar",
+    "initials": "NK",
+    "eyebrow": "Backend engineering / system design",
+    "role": "I am learning to build systems that stay understandable as they grow.",
+    "introduction": "My current focus is the backend: APIs, data, reliability, and the decisions that connect them. I learn by turning those ideas into small, working products.",
+    "bio": [
+      "I care about the parts of software people do not always see: clear boundaries, predictable failure modes, useful logs, and data models that make the next change easier.",
+      "This portfolio is also a systems exercise. Its content is designed to live outside the frontend, so the site can evolve without every copy change becoming a code deployment."
+    ],
+    "status": "Learning in public",
+    "focus": ["API design", "Data modeling", "System design", "Reliability"]
+  },
+  "projects": [
+    {
+      "slug": "apex-rush",
+      "title": "Apex Rush",
+      "summary": "A procedural 3D arcade racer built as a focused browser prototype.",
+      "description": "A 2.4 km sunset sprint with AI rivals, nitro, collision response, a responsive race HUD, and keyboard or touch controls. The world is generated in code without external 3D models.",
+      "status": "Prototype",
+      "period": "Current work",
+      "technologies": ["Three.js", "JavaScript", "Vite", "WebGL"],
+      "highlights": [
+        "Procedural track, cars, scenery, particles, and lighting",
+        "Three rubber-banded AI drivers with lane changes",
+        "Responsive keyboard and touch controls"
+      ],
+      "repositoryUrl": "https://github.com/neeraj-kumar-756/shippms",
+      "readMoreUrl": "https://github.com/neeraj-kumar-756/shippms#readme",
+      "demo": {
+        "url": null,
+        "vercel": {
+          "projectName": "shippms",
+          "owner": "neeraj-kumar-756",
+          "repo": "shippms",
+          "ref": "main",
+          "target": "preview"
+        }
+      }
+    }
+  ],
+  "connect": {
+    "heading": "Let’s talk about useful systems.",
+    "message": "If you are building a backend-heavy product, exploring system design, or have feedback on my work, GitHub is the best place to find me right now.",
+    "links": [
+      {
+        "label": "GitHub",
+        "detail": "neeraj-kumar-756",
+        "url": "https://github.com/neeraj-kumar-756",
+        "kind": "github"
+      }
+    ]
+  }
+}
