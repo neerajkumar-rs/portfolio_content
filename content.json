@@ -11,7 +11,7 @@
       "This portfolio is also a systems exercise. Its content is designed to live outside the frontend, so the site can evolve without every copy change becoming a code deployment."
     ],
     "status": "Learning in public",
-    "focus": ["API design", "Data modeling", "System design", "Reliability"]
+    "focus": ["API design", "Data modeling", "System design", "Reliability","devops"]
   },
   "projects": [
     {
@@ -27,13 +27,13 @@
         "Three rubber-banded AI drivers with lane changes",
         "Responsive keyboard and touch controls"
       ],
-      "repositoryUrl": "https://github.com/neeraj-kumar-756/shippms",
-      "readMoreUrl": "https://github.com/neeraj-kumar-756/shippms#readme",
+      "repositoryUrl": "https://github.com/neeraj-kumar-rs/shippms",
+      "readMoreUrl": "https://github.com/neeraj-kumar-rs/shippms#readme",
       "demo": {
         "url": null,
         "vercel": {
           "projectName": "shippms",
-          "owner": "neeraj-kumar-756",
+          "owner": "neerajkumar-rs",
           "repo": "shippms",
           "ref": "main",
           "target": "preview"
