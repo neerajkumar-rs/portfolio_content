@@ -3,52 +3,64 @@
   "profile": {
     "name": "Neeraj Kumar",
     "initials": "NK",
-    "eyebrow": "Backend engineering / system design",
-    "role": "I am learning to build systems that stay understandable as they grow.",
-    "introduction": "My current focus is the backend: APIs, data, reliability, and the decisions that connect them. I learn by turning those ideas into small, working products.",
+    "eyebrow": "University student / backend & systems",
+    "role": "I am a university student learning backend development and systems engineering.",
+    "introduction": "I am currently learning how APIs, databases, servers, and reliable systems work together. I learn best by building projects, testing ideas, and improving them one step at a time.",
     "bio": [
-      "I care about the parts of software people do not always see: clear boundaries, predictable failure modes, useful logs, and data models that make the next change easier.",
-      "This portfolio is also a systems exercise. Its content is designed to live outside the frontend, so the site can evolve without every copy change becoming a code deployment."
+      "I am a university student exploring backend development and systems engineering. Right now, I am learning about API design, databases, server-side development, reliability, and the foundations behind scalable systems.",
+      "I am still early in my journey, so I use projects as a way to understand how real products are designed, built, and maintained. I enjoy learning in public and improving through hands-on work."
     ],
     "status": "Learning in public",
-    "focus": ["API design", "Data modeling", "System design", "Reliability"]
+    "focus": ["Backend development", "API design", "Databases", "Systems engineering"]
   },
   "projects": [
     {
-      "slug": "apex-rush",
-      "title": "Apex Rush",
-      "summary": "A procedural 3D arcade racer built as a focused browser prototype.",
-      "description": "A 2.4 km sunset sprint with AI rivals, nitro, collision response, a responsive race HUD, and keyboard or touch controls. The world is generated in code without external 3D models.",
-      "status": "Prototype",
-      "period": "Current work",
-      "technologies": ["Three.js", "JavaScript", "Vite", "WebGL"],
+      "slug": "decsdo",
+      "title": "DECS.DO",
+      "summary": "An intelligent, zoomable workspace canvas designed to help people organize tasks and stay focused.",
+      "description": "DECS.DO brings task planning, focus sessions, ambient audio, and AI-assisted organization into one customizable workspace. Its infinite canvas lets users pan, zoom, resize, and arrange modular tools to match the way they work.",
+      "status": "Live",
+      "period": "Current project",
+      "technologies": ["Next.js", "React", "Supabase", "Gemini AI"],
       "highlights": [
-        "Procedural track, cars, scenery, particles, and lighting",
-        "Three rubber-banded AI drivers with lane changes",
-        "Responsive keyboard and touch controls"
+        "Infinite canvas with draggable, resizable productivity widgets",
+        "AI-assisted task organization with an Eisenhower priority matrix",
+        "Pomodoro focus tracking, daily streaks, and ambient audio streams",
+        "Cloud authentication and workspace synchronization with Supabase"
       ],
-      "repositoryUrl": "https://github.com/neeraj-kumar-756/shippms",
-      "readMoreUrl": "https://github.com/neeraj-kumar-756/shippms#readme",
+      "repositoryUrl": "https://github.com/neerajkumar-rs/decs_do",
+      "readMoreUrl": "https://decsdo.space",
       "demo": {
-        "url": null,
-        "vercel": {
-          "projectName": "shippms",
-          "owner": "neeraj-kumar-756",
-          "repo": "shippms",
-          "ref": "main",
-          "target": "preview"
-        }
+        "url": "https://decsdo.space"
       }
     }
   ],
   "connect": {
-    "heading": "Let’s talk about useful systems.",
-    "message": "If you are building a backend-heavy product, exploring system design, or have feedback on my work, GitHub is the best place to find me right now.",
+    "heading": "Let’s connect.",
+    "message": "You can follow my learning journey, see what I am building, or get in touch through any of the links below.",
     "links": [
       {
+        "label": "LinkedIn",
+        "detail": "neeraj-kumar-rs",
+        "url": "https://www.linkedin.com/in/neeraj-kumar-rs/",
+        "kind": "linkedin"
+      },
+      {
+        "label": "X",
+        "detail": "@neeraj_no",
+        "url": "https://x.com/neeraj_no",
+        "kind": "x"
+      },
+      {
+        "label": "Gmail",
+        "detail": "neerajkumar@gmail.com",
+        "url": "mailto:neerajkumar981879@gmail.com",
+        "kind": "email"
+      },
+      {
         "label": "GitHub",
-        "detail": "neeraj-kumar-756",
-        "url": "https://github.com/neeraj-kumar-756",
+        "detail": "neerajkumar-rs",
+        "url": "https://github.com/neerajkumar-rs",
         "kind": "github"
       }
     ]
