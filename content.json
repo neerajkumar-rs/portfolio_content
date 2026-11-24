@@ -3,7 +3,7 @@
   "profile": {
     "name": "Neeraj Kumar",
     "initials": "NK",
-    "eyebrow": "University student / backend & systems",
+    "eyebrow": "University student / backend & systems (Greator Noida,India)!",
     "role": "I am a university student learning backend development and systems engineering.",
     "introduction": "I am currently learning how APIs, databases, servers, and reliable systems work together. I learn best by building projects, testing ideas, and improving them one step at a time.",
     "bio": [
@@ -11,7 +11,7 @@
       "I am still early in my journey, so I use projects as a way to understand how real products are designed, built, and maintained. I enjoy learning in public and improving through hands-on work."
     ],
     "status": "Learning in public",
-    "focus": ["Backend development", "API design", "Databases", "Systems engineering","DevOps"]
+    "focus": ["Backend development", "API design", "Databases", "Systems engineering", "DevOps"]
   },
   "projects": [
     {
