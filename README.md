@@ -7,7 +7,7 @@ the portfolio website's `PORTFOLIO_CONTENT_URL` to its raw GitHub URL.
 Example:
 
 ```env
-PORTFOLIO_CONTENT_URL=https://raw.githubusercontent.com/neeraj-kumar-rs/portfolio-content/main/content.json
+PORTFOLIO_CONTENT_URL=https://raw.githubusercontent.com/neerajkumar-rs/portfolio_content/main/content.json
 ```
 
 ## Demo behavior
